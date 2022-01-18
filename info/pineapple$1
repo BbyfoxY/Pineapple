@@ -2,17 +2,17 @@
 	<html>
 		<head>
 			<title>Pineapple</title>
-			<link href="https://Pineapple-Live.bbyfoxy.repl.co/style.css" rel="stylesheet" type="text/css" />
+			<link href="https://bbyfoxy.github.io/Pineapple/style.css" rel="stylesheet" type="text/css" />
 		</head>
 		<body>
 			<div id = 'sidebar'>
-				<a href = 'https://Pineapple-Live.bbyfoxy.repl.co'><h1>Home</h1></a>
-				<a href = 'https://Pineapple-Live.bbyfoxy.repl.co/images.html'><h2>Browser</h2></a>
-				<a href = 'https://Pineapple-Live.bbyfoxy.repl.co/funny.html'><h2>Don't click me!</h2></a>
+				<a href = 'https://bbyfoxy.github.io/Pineapple'><h1>Home</h1></a>
+				<a href = 'https://bbyfoxy.github.io/Pineapple/images.html'><h2>Browser</h2></a>
+				<a href = 'https://bbyfoxy.github.io/Pineapple/funny.html'><h2>Don't click me!</h2></a>
 				<details>
 					<summary>Games</summary>
-					<a href = 'https://Pineapple-Live.bbyfoxy.repl.co/info/pineappleStocks.html'><h2>Slope</h2></a>
-					<a href = 'https://Pineapple-Live.bbyfoxy.repl.co/info/pineappleSources.html'><h2>Quake</h2></a>
+					<a href = 'https://bbyfoxy.github.io/Pineapple/info/pineappleStocks.html'><h2>Slope</h2></a>
+					<a href = 'https://bbyfoxy.github.io/Pineapple/info/pineappleSources.html'><h2>Quake</h2></a>
 				</details>
 			</div>
 			<div id = 'home'>
